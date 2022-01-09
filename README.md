@@ -4,8 +4,8 @@
 | Contributor   |     Email              |
 | ------------- | ---------------------- |
 | Emily Huang   | pyh2@illinois.edu      |
-| Amber Ma      | likaikl2@illinois.edu  |
-| Ander Lin     |                        |
+| Amber Ma      |                        |
+| Ander Lin     | likaikl2@illinois.edu  |
 | Guang Hou     |                        |
 
 
