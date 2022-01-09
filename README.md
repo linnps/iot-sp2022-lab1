@@ -1,4 +1,4 @@
-# Spring 2022 UIUC CS437 IoT Lab 1
+# UIUC Spring 2022 CS437 IoT Lab 1
 
 ## Description
 | Contributor   |     Email              |
