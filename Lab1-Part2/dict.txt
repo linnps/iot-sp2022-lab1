@@ -1,0 +1,8 @@
+0  Speed_Limit_25
+1  Obstacle
+2  Speed_Limit_40
+3  Railroad_Sign
+4  Red_Traffic_Light
+5  Stop_Sign
+6  Person
+7  Green_Traffic_Light
