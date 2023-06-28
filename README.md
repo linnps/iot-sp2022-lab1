@@ -19,3 +19,6 @@
 
 - Lab 1 Part 2
   - [ ] TBD
+
+
+<img src="Training.png" alt="TrainImage">
